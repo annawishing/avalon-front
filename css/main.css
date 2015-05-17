@@ -1,0 +1,25 @@
+.header-img {
+	width: 100%;
+}
+
+.custom_settings {
+	width: 40px;
+	height: 40px;
+}
+
+h3 {
+	font-size: 24px;
+	color: #579BD3;
+	position: relative;
+	top: -12px;
+	left: 3px;
+}
+
+.start{
+	width: 121px;
+	height: 85px;
+}
+
+.item{
+	margin-bottom: 15px;
+}
